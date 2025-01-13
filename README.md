@@ -294,8 +294,8 @@ C:\Tools\ligolo-ng\cmd\agent> go build --buildmode=c-shared -ldflags="-s -w"  -o
 ```
 Now place `main.dll` in:
 ```
-./SharpLigolo-NG/SharpLigoloNG/Costura32/
-./SharpLigolo-NG/SharpLigoloNG/Costura64/
+./SharpLigoloNG/Costura32/
+./SharpLigoloNG/Costura64/
 ```
 
 Build the project and have fun!
